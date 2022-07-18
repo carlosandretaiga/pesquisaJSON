@@ -1,0 +1,18 @@
+{
+  "cliente": {
+      "id": 2023,
+      "nome": "Carlos André"
+  },
+  "pagamentos": [
+      {
+          "id": 12363,
+          "descricacao": "Compra Notebook",
+          "valor": 4660.5
+      },
+      {
+          "id": 12464,
+          "descricacao": "Mensalidade Netflix",
+          "valor": 55.90
+      }
+  ]
+}
